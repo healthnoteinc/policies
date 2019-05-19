@@ -46,13 +46,7 @@ Access to Health Note systems and applications is limited for all users, includi
      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Health Note employee at the discretion of the Security Officer or Privacy Officer .
 2. Access is not granted until receipt, review, and approval by the Health Note Security Officer or Privacy Officer.
 3. The request for access is retained for future reference.
-4. All access to Health Note systems and services is reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
-   1. The Security Officer initiates the review of user access by creating an Issue in the Health Note Quality Management System.
-   2. The Security Officer is assigned to review levels of access for each Health Note workforce member.
-   3. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the Issue is then reviewed again.
-   4. Once the review is completed, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
-   5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-   6. Review of user access is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
+4. All access to Health Note systems and services is reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The form used to conduct account review is on Google Drive.
 5. Any Health Note workforce member can request change of access using the process outlined in [§7.2 paragraph 1](#7.2-access-establishment-and-modification).
 6. Access to production systems is controlled using centralized user management and authentication.
 7. Temporary accounts are not used unless absolutely necessary for business purposes.
