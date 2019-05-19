@@ -20,7 +20,7 @@ Health Note is committed to ensuring all workforce members actively address secu
 
 1. All new workforce members, including contractors, are given training on security policies and procedures, including operations security, within 30 days of employment.
    * Records of training are kept for all workforce members.
-   * Upon completion of training, workforce members complete this ===[form](https://docs.google.com/)===.
+   * Upon completion of training, workforce members complete this [form](https://docs.google.com/forms/d/e/1FAIpQLSdR4gqSmqnnoazmkca7D-3IOZWnzszxT4TTh5QZ6FovEY6S9A/viewform?usp=sf_link).
    * Current Health Note training is hosted on Google Apps.
    * Employees must complete this training before accessing production systems containing ePHI.
 2. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
