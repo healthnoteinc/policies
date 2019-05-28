@@ -18,12 +18,11 @@ Health Note implements policies and procedures to maintain compliance and integr
 1. All policies are stored and updated to maintain Health Note compliance with HIPAA, HITRUST, NIST, and other relevant standards. Updates and version control are done similarly to source code control.
 2. Policy update requests can be made by any workforce member at any time. Furthermore, all policies are reviewed annually by both the Security and Privacy Officer to assure they are accurate and up-to-date.
 3. Edits and updates made by appropriate and authorized workforce members are done on their own versions, or branches. These changes are only merged back into final, or master, versions by the Privacy or Security Officer, similarly to a pull request. All changes are linked to workforce personnel who made them and the Officer who accepted them.
-4. All policies are made accessible to all Health Note workforce members. The current master policies are published at [https://policy.healthnote.com](https://policy.Healthnote.com).
+4. All policies are made accessible to all Health Note workforce members. The current master policies are available on Google Drive..
 5. All policies, and associated documentation, are retained for 6 years from the date of its creation or the date when it last was in effect, whichever is later
    1. Version history of all Health Note policies is done via GitHub.
-   2. Backup storage of all policies is done with Google Apps.
+   2. Backup storage of all policies is done with Google Drive.
 6. The policies and information security policies are reviewed and audited annually, or after significant changes occur to Health Note's organizational environment. Issues that come up as part of this process are reviewed by Health Note management to assure all risks and potential gaps are mitigated and/or fully addressed. 
-7. Health Note utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis. Health Note also tracks compliance with HIPAA and publishes results at [https://hipaa.healthnote.com](https://hipaa.healthnote.com). 
 
 Additional documentation related to maintenance of policies is outlined in [§5.3.1](#5.3-security-officer).
 Health Note
