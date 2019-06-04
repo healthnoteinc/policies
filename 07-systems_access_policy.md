@@ -38,15 +38,15 @@ Access to Health Note systems and applications is limited for all users, includi
      * User identities must be verified prior to granting access to new accounts.
      * Identity verification must be done in person where possible; for remote employees, identities must be verified over the phone.
      * For new accounts, the method used to verify the user's identity must be recorded on the Systems Access Form.
-  2. The Security Officer or Privacy Officer will grant access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
-  3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
-  4. If the review is approved, the Security Officer or Privacy Officer then updates the Systems Access Form as Done, adding any pertinent notes required. The Security Officer or Privacy Officer then grants requested access.
+  2. The Security Officer or Privacy Officer will review access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
+  3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the form. If the form is rejected, it goes back for further review and documentation.
+  4. If the review is approved, the Security Officer or Privacy Officer then updates the Systems Access Form as Done, adding any pertinent notes required. The Chief Technology Officer (CTO) then grants requested access.
      * New accounts will be created with a temporary secure password that meets all requirements from [§7.12](#7.12-password-management), which must be changed on the initial login.
      * All password exchanges must occur over an authenticated channel.
-     * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Health Note employee at the discretion of the Security Officer or Privacy Officer .
+     * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Health Note employee at the discretion of the Security Officer, Privacy Officer, or CTO.
 2. Access is not granted until receipt, review, and approval by the Health Note Security Officer or Privacy Officer.
 3. The request for access is retained for future reference.
-4. All access to Health Note systems and services is reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The form used to conduct account review is on Google Drive.
+4. All access to Health Note systems and services is reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The form used to conduct account review is on Google Drive.  A security consultant is designated by the Security Officer or CTO to perform the access review.
 5. Any Health Note workforce member can request change of access using the process outlined in [§7.2 paragraph 1](#7.2-access-establishment-and-modification).
 6. Access to production systems is controlled using centralized user management and authentication.
 7. Temporary accounts are not used unless absolutely necessary for business purposes.
@@ -66,10 +66,11 @@ Access to Health Note systems and applications is limited for all users, includi
 1. The level of security assigned to a user to the organization's information systems is based on the minimum necessary amount of data access required to carry out legitimate job responsibilities assigned to a user's job classification and/or to a user needing access to carry out treatment, payment, or healthcare operations.
 2. All access requests are treated on a "least-access principle."
 3. Health Note maintains a minimum necessary approach to access to Customer data. As such, Health Note, including all workforce members, does not readily have access to any ePHI.
+4. All workforce members are subject to a background check before access is granted to information systems, facilties, and/or ePHI.
 
 ## 7.4 Access Authorization
 
-1. Role based access categories for each Health Note system and application are pre-approved by the Security Officer, or an authorized delegate of the Security Officer.
+1. Role based access categories for each Health Note system and application are pre-approved by the Security Officer, or an authorized delegate of the Security Officer.  Defined roles can be referenced in Appendix 1 of the systems access policy.
 2. Health Note utilizes hardware and software firewalls to segment data, prevent unauthorized access, and monitor traffic for denial of service attacks.
 
 ## 7.5 Person or Entity Authentication
@@ -102,9 +103,11 @@ All workstations at Health Note are company owned, and all are laptop Apple prod
 4. Solicitation of non-company business, or any use of organization's information systems/applications for personal gain is prohibited.
 5. Transmitted messages may not contain material that criticizes the organization, its providers, its employees, or others.
 6. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
-7. Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.
+7. All workstation hard drives are encrypted using FileVault 2.0, Windows Bitlocker, or equivalent.
 8. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
 9. All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Health Note Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.Health Note.com) and have completed this training (https://training.Health Note.com/). Please contact us if you have problems with this - privacy@Health Note.com.*
+10. All workstations are set to automatically update for Windows Updates or MacOS updates.
+11. All workstations have virus protection software installed, configured, and enabled.
 
 ## 7.9 Wireless Access Use
 
