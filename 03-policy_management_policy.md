@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 3. Policy Management Policy
 
 Health Note implements policies and procedures to maintain compliance and integrity of data. The Security Officer and Privacy Officer are responsible for maintaining policies and procedures and assuring all Health Note workforce members, business associates, customers, and partners are adherent to all applicable policies. Previous versions of policies are retained to assure ease of finding policies at specific historic dates in time.
