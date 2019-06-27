@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 20. Approved Tools Policy
 
 Health Note utilizes a suite of approved software tools for internal use by workforce members. These software tools are either self-hosted, with security managed by Health Note, or they are hosted by a Subcontractor with appropriate business associate agreements in place to preserve data integrity. Use of other tools requires approval from Health Note leadership.

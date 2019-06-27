@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 4. Risk Management Policy
 
 This policy establishes the scope, objectives, and procedures of Health Note's information security risk management process. The risk management process is intended to support and protect the organization and its ability to fulfill its mission.

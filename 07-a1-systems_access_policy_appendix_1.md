@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 #7. System Access Policy
 # Appendix 1 - Roles and permissions
 

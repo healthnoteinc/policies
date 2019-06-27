@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 9. Configuration Management Policy
 
 Health Note documents of all changes to production systems and networks. 

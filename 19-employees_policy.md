@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 19. Employees Policy
 
 Health Note is committed to ensuring all workforce members actively address security and compliance in their roles at Health Note. As such, training is imperative to assuring an understanding of current best practices, the different types and sensitivities of data, and the sanctions associated with non-compliance.

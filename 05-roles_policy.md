@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 5. Roles Policy
 
 Health Note has a Security Officer [164.308(a)(2)] and Privacy Officer [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.

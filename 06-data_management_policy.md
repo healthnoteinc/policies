@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 6. Data Management Policy
 
 Health Note has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored in conjunction with the Health Note Platform. The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by Health Note.

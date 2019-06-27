@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 11. Incident Response Policy
 
 Health Note implements an information security incident response process to consistently detect, respond to, and report incidents, minimize loss and destruction, mitigate the weaknesses that were exploited, and restore information system functionality and business continuity as soon as possible.

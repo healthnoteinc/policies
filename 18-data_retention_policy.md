@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 18. Data Retention Policy
 
 Despite not being a requirement within HIPAA, Health Note understands and appreciates the importance of health data retention. Acting as a subcontractor, and at times a business associate, Health Note is not directly responsible for health and medical records retention as set forth by each state. Despite this, Health Note has created and implemented the following policy to make it easier for Health Note Customers to support data retention laws.

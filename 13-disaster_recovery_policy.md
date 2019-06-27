@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 13. Disaster Recovery Policy
 
 The Health Note Contingency Plan establishes procedures to recover Health Note following a disruption resulting from a disaster. This Disaster Recovery Policy is maintained by the Health Note Security Officer and Privacy Officer.

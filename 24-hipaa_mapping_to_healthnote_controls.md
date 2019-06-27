@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 24. HIPAA Mappings to Health Note Controls
 
 Below is a list of HIPAA Safeguards and Requirements and the Health Note controls in place to meet those.

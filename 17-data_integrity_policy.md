@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 17. Data Integrity Policy
 
 Health Note takes data integrity very seriously. As stewards and partners of Health Note Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the Health Note mission of data protection.
