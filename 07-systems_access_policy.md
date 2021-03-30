@@ -35,6 +35,9 @@ Access to Health Note systems and applications is limited for all users, includi
 * 164.310(c) Workstation Security
 * 164.308(a)(3)(ii)(C) Termination Procedures
 
+### 7.1.3 Applicatble Standards from NIST
+* NIST SP 800-63b, section 5.1.1
+
 ## 7.2 Access Establishment and Modification
 
 1. Requests for access to Health Note systems and applications are made formally using the following process:
@@ -109,7 +112,7 @@ All workstations at Health Note are company owned, and all are laptop Apple prod
 6. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 7. All workstation hard drives are encrypted using FileVault 2.0, Windows Bitlocker, or equivalent.
 8. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
-9. All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Health Note Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.Health Note.com) and have completed this training (https://training.Health Note.com/). Please contact us if you have problems with this - privacy@Health Note.com.*
+9. All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Health Note Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.Health Note.com) and have completed this training (https://training.HealthNote.com/). Please contact us if you have problems with this - privacy@HealthNote.com.*
 10. All workstations are set to automatically update for Windows Updates or MacOS updates.
 11. All workstations have virus protection software installed, configured, and enabled.
 
@@ -140,13 +143,7 @@ Health Note does not use paper records for any sensitive information. Use of pap
 
 1. User IDs and passwords are used to control access to Health Note systems and may not be disclosed to anyone for any reason.
 2. Users may not allow anyone, for any reason, to have access to any information system using another user's unique user ID and password.
-3. On all production systems and applications in the Health Note environment, password configurations are set to require:
-   * a minimum length of 8 characters;
-   * a mix of upper case characters, lower case characters, and numbers or special characters;
-   * a 90-day password expiration
-   * prevention of password reuse using a history of the last 6 passwords;
-   * where supported, modifying at least 4 characters when changing passwords;
-   * account lockout after 5 invalid attempts.
+3. On all production systems and applications in the Health Note environment, password configurations are expected to follow the Password Construction Guidelines (see 7.13).
 4. All system and application passwords must be stored and transmitted securely.
    * Where possible, passwords should be stored in a hashed format using a salted cryptographic hash function (SHA-256 or equivalent).
    * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](#17.8-production-data-security).
@@ -159,7 +156,51 @@ Health Note does not use paper records for any sensitive information. Use of pap
 10. All passwords used in configuration scripts are secured and encrypted.
 11. If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
 
-## 7.13 Access to ePHI
+## 7.13 Password Construction Guidelines
+
+Passwords are used for various purposes at the Health Note. Some of the more common uses include user-level accounts, web accounts, e-mail accounts, screen saver protection, voice-mail password, and customer logins. Since very few systems have support for one-time tokens (i.e., dynamic passwords
+which are only used once), everyone should be aware of how to select strong passwords.
+
+
+* a minimum length of 8 and max length of 64 characters;
+* a mix of upper case characters, lower case characters, and numbers or special characters;
+* disallow use of repetitive sequential characters (i.e. "3tttttt");
+* a 90-day password expiration on all accounts that can access ePHI or other sensitive data;
+* prevention of password reuse using a history of the last 6 passwords;
+* where supported, modifying at least 4 characters when changing passwords;
+* account lockout after 5 invalid attempts.
+* user accounts that have system-level privileges granted through group memberships or programs such as "sudo" must have a unique password from all other accounts held by that user.
+* where Simple Network Management Protocol (SNMP) is used, the community strings must be defined as something other than the standard defaults of "public," "private," and "system," and must be different from the passwords used to log in interactively. A keyed hash must be used where available (e.g., SNMPv2).
+
+## 7.14 Application Development Password Standards
+
+Application developers must ensure their programs contain the following security precautions:
+* Applications should support authentication of individual users - not groups.
+* Applications should not store passwords in clear text or in any easily reversible form.
+* Applications should provide for some sort of role management, such that one user can take
+over the functions of another without having to know the other's password.
+* Applications should support Single-Sign-On wherever possible.
+
+
+## 7.14 Password Protection Guidelines
+
+Passwords are meant to be treated as sensitive, confidential Health Note information. If someone demands a password, refer them to this document or have them call someone in the Security Office for clarification.
+ 
+* Do not reveal a password over the phone to ANYONE.
+* Do not reveal a password in an e-mail message.
+* Do not reveal a password to the boss.
+* Do not talk about a password in front of others.
+* Do not hint at the format of a password (e.g., “my family name”).
+* Do not reveal a password on questionnaires or security forms.
+* Do not share a password with family members.
+* Do not reveal a password to co-workers while on vacation.
+* Do not write a password in an obvious place that is accessible to others.
+* Do not write passwords down and store them anywhere in your office.
+* Do not share agency passwords with anyone, including administrative/executive assistants.
+* Do not use SMS for 2-factor auth - use an app or hardware device where possible.
+
+
+## 7.15 Access to ePHI
 
 1. Employees may not download ePHI to any workstations used to connect to production systems.
 2. Disallowing transfer of ePHI to workstations is enforced through technical measures.
