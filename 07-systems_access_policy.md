@@ -182,7 +182,7 @@ over the functions of another without having to know the other's password.
 * Applications should support Single-Sign-On wherever possible.
 
 
-## 7.14 Password Protection Guidelines
+## 7.15 Password Protection Guidelines
 
 Passwords are meant to be treated as sensitive, confidential Health Note information. If someone demands a password, refer them to this document or have them call someone in the Security Office for clarification.
  
@@ -200,7 +200,7 @@ Passwords are meant to be treated as sensitive, confidential Health Note informa
 * Do not use SMS for 2-factor auth - use an app or hardware device where possible.
 
 
-## 7.15 Access to ePHI
+## 7.16 Access to ePHI
 
 1. Employees may not download ePHI to any workstations used to connect to production systems.
 2. Disallowing transfer of ePHI to workstations is enforced through technical measures.
