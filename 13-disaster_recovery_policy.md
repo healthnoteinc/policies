@@ -85,6 +85,8 @@ The primary objective of the technical test is to ensure the communication proce
 
 ## 13.5 Disaster Recovery Procedures
 
+* Systems - restore from clone or AMI or saved configuration template
+* Database - restore from latest snapshot available for cluster
 ### 13.5.1 Notification and Activation Phase
 
 This phase addresses the initial actions taken to detect and assess damage inflicted by a disruption to Health Note. Based on the assessment of the Event, sometimes according to the Health Note Incident Response Policy, the Contingency Plan may be activated by the Founder.
