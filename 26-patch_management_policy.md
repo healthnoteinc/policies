@@ -17,8 +17,9 @@ The purpose of this policy is to ensure that all Health Note systems and applica
 
 - Out of Band & Emergency Patching schedule will depend on severity of CVE rating:
 
-| CVE Rating | Patch Window |
+| CVSS Score | Patch Window |
 |------------|--------------|
+| Critical   | < 2 days     |
 | High       | < 7 days     |
 | Medium     | < 14 days    |
 | Low        | < 30 days    |
