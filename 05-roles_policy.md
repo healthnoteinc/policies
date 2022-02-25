@@ -69,7 +69,11 @@ The Security Officer is responsible for facilitating the training and supervisio
 
 The current Health Note Security Officer is Joshua Reischer ([josh@healthnote.com](mailto:josh@healthnote.com)).
 
-### 5.3.1 Organizational Responsibilities
+## 5.4 Assigned Security Responsibilities
+
+The Security Officer is responsible to oversee the development, implementation, monitoring, and communication of security policies and procedures.
+
+### 5.4.1 Organizational Responsibilities
 
 The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, testing, implementation, training, and oversight of all activities pertaining to Health Note's efforts to be compliant with the HIPAA Security Regulations, HITRUST CSF, and any other security and compliance frameworks. The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI.
 
@@ -103,7 +107,7 @@ These organizational responsibilities include, but are not limited to the follow
     * Media Disposal and/or Re-use;
     * Documentation requirements.
 
-### 5.3.2 Supervision of Workforce Responsibilities
+### 5.4.2 Supervision of Workforce Responsibilities
 
 Although the Security Officer is responsible for implementing and overseeing all activities related to maintaining compliance, it is the responsibility of all workforce members (i.e. team leaders, supervisors, managers, directors, co-workers, etc.) to supervise all workforce members and any other user of Health Note's systems, applications, servers, workstations, etc. that contain ePHI.
 
@@ -111,7 +115,7 @@ Although the Security Officer is responsible for implementing and overseeing all
 2. Assist the Security and Privacy Officers to ensure appropriate role-based access is provided to all users.
 3. Take all reasonable steps to hire, retain, and promote workforce members and provide access to users who comply with the Security regulations and Health Note's security policies and procedures.
 
-### 5.3.3 Sanctions of Workforce Responsibilities
+### 5.4.3 Sanctions of Workforce Responsibilities
 
 All workforce members report non-compliance of Health Note's policies and procedures to the Security Officer or other individual as assigned by the Security Officer. Individuals that report violations in good faith may not be subjected to intimidation, threats, coercion, discrimination against, or any other retaliatory action as a consequence.
 
