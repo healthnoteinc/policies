@@ -140,4 +140,4 @@ This section discusses activities necessary for restoring Health Note operations
    * Assure systems are appropriately patched and up to date. - Infrastructure
    * Update DNS to new environment. - Infrastructure
 2. Plan Deactivation
-   * If the Health Note environment is moved back to the original site from the alternative site, all hardware used at the alternate site should be handled and disposed of according to the Health Note Media Disposal Policy.
+   * If the Health Note environment is moved back to the original site from the alternative site, all hardware used at the alternate site should be handled and disposed of according to the Health Note Disposable Media Policy.
