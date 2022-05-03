@@ -24,12 +24,19 @@ Violation of this policy and its procedures by workforce members may result in c
 
 ## 6.2 Backup Policy and Procedures
 
-1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for HealthNote Customers.
-2. The Health Note Ops Team is designated to be in charge of backups.
-3. Dev Ops Team members are trained and assigned to complete backups and manage the backup media.
-4. Document backups
-   * Name of the system
-   * Date & time of backup
-   * Where backup stored (or to whom it was provided)
-5. Securely encrypt stored backups in a manner that protects them from loss or environmental damage.
-6. Test backups annually and document that files have been completely and accurately restored from the backup media.
+1. Automate daily snapshot backups of all systems that process, store, or transmit ePHI for HealthNote Customers.
+2. The Health Note Dev Ops Team is designated to be in charge of backups.
+3. Dev Ops Team members are trained and familiar with cloud tools for creating backups.
+4. Ensure that all backups are properly encrypted at rest with a key that is owned by Health Note.
+5. Test backups annually and document that files have been completely and accurately restored.
+
+## 6.3 Cloud Backup Scope
+
+Health Note uses a variety of cloud services and backup inventory is as follows:
+
+* RDS Snapshots
+* S3 Cross-Country Replication
+* Elasticache Backups
+* EC2 Images
+* MongoDB Backups
+* Heroku Backups

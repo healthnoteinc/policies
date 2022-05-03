@@ -202,6 +202,6 @@ Passwords are meant to be treated as sensitive, confidential Health Note informa
 
 ## 7.16 Access to ePHI
 
-1. Employees may not download ePHI to any workstations used to connect to production systems.
+1. Unless explicitly approved by management, Employees may not download ePHI to any workstations used to connect to production systems.
 2. Disallowing transfer of ePHI to workstations is enforced through technical measures.
    * On production Linux bastions, all file transfer services are disabled including file-transfer functionality of SSH services (SCP/SFTP).

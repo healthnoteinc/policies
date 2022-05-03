@@ -17,6 +17,7 @@ layout: default
 * Heroku
 * HealthNote app - Admin access
 * ePHI
+* BitWarden
 
 ### Development User
 * Google Suite
