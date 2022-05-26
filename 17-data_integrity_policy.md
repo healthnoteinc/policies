@@ -61,3 +61,8 @@ Production systems that create, receive, store, or transmit Customer data (herea
 3. Transmission encryption keys are limited to use for one year and then must be regenerated.
 4. In the case of Health Note provided APIs, provide mechanisms to assure person sending or receiving data is authorized to send and save data.
 5. System logs of all transmissions of Production Data access. These logs must be available for audit.
+
+
+## 17.10 Email Security
+
+1. Standard Email encryption as provided by the use of Google Suite (Gmail) is in use.

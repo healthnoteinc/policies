@@ -162,7 +162,7 @@ Passwords are used for various purposes at the Health Note. Some of the more com
 which are only used once), everyone should be aware of how to select strong passwords.
 
 
-* a minimum length of 8 and max length of 64 characters;
+* a minimum length of 16 and max length of 64 characters;
 * a mix of upper case characters, lower case characters, and numbers or special characters;
 * disallow use of repetitive sequential characters (i.e. "3tttttt");
 * a 90-day password expiration on all accounts that can access ePHI or other sensitive data;
