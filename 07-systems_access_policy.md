@@ -161,7 +161,7 @@ Health Note does not use paper records for any sensitive information. Use of pap
 Passwords are used for various purposes at the Health Note. Some of the more common uses include user-level accounts, web accounts, e-mail accounts, screen saver protection, voice-mail password, and customer logins. Since very few systems have support for one-time tokens (i.e., dynamic passwords
 which are only used once), everyone should be aware of how to select strong passwords.
 
-
+Limited only by systems that support it (we make our best effort to enforce up to the limitations of a particular platform):
 * a minimum length of 16 and max length of 64 characters;
 * a mix of upper case characters, lower case characters, and numbers or special characters;
 * disallow use of repetitive sequential characters (i.e. "3tttttt");
