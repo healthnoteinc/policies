@@ -66,3 +66,7 @@ Production systems that create, receive, store, or transmit Customer data (herea
 ## 17.10 Email Security
 
 1. Standard Email encryption as provided by the use of Google Suite (Gmail) is in use.
+
+## 17.11 De-Identification of ePHI
+
+1. Unless explictitly requested by the client, all ePHI is de-identified.
