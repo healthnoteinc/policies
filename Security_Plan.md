@@ -22,7 +22,7 @@ This plan applies to any use of the Health Note’s information technology resou
 
 ## Policies
 
-IT Security at Health Note follows the the policies, standards, and procedures documented below. Major policies and a high-level descriptions of them are outlined for purpose of this Security Plan but are not limited to this list. 
+IT Security at Health Note follows the the policies, standards, and procedures documented below. Major policies and a high-level description of each are outlined for purposes of this Security Plan.
 
 Additional policies are avaialble on [GitHub](https://healthnoteinc.github.io/policies/)
 
@@ -52,7 +52,11 @@ This policy outlines Health Note transmission and storage criteria for qualifyin
 
 ### Disaster Recovery Policy
 
-This policy provides contingency plans at the organizational and technical levels within Health Note. Notification paths, restoration activities, and frequency of testing these contingencies are also included.
+This policy provides contingency plans at the organizational and technical levels within Health Note including escalation paths, restoration activities, and frequency of testing these contingencies.
+
+### Data Retention Policy
+
+This policy details requirements and conduct of Health Note with regards to how long customer data is kept. 
 
 ### Employees Policy
 
