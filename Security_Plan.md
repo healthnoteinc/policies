@@ -1,4 +1,4 @@
-# Health Note IT Security Plan
+# Health Note Security Plan
 
 ## Overview
 
