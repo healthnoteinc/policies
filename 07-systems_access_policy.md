@@ -102,7 +102,7 @@ Access to Health Note systems and applications is limited for all users, includi
 
 ## 7.8 Employee Workstation Use
 
-All employee workstations at Health Note are company owned, and all are laptop Apple products running Mac OSX or Linux or PC laptops running Windows 10 or Linux.
+All workstations at Health Note are company owned, and all are laptop Apple products running Mac OSX or Linux.
 
 1. Workstations may not be used to engage in any activity that is illegal or is in violation of organization's policies.
 2. Access may not be used for transmitting, retrieving, or storage of any communications of a discriminatory or harassing nature or materials that are obscene or "X-rated". Harassment of any kind is prohibited. No messages with derogatory or inflammatory remarks about an individual's race, age, disability, religion, national origin, physical attributes, sexual preference, or health condition shall be transmitted or maintained. No abusive, hostile, profane, or offensive language is to be transmitted through the organization's system.
@@ -112,7 +112,7 @@ All employee workstations at Health Note are company owned, and all are laptop A
 6. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 7. All workstation hard drives are encrypted using FileVault 2.0, Windows Bitlocker, or equivalent.
 8. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
-9. All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Health Note Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://healthnoteinc.github.io/policies/) and have completed this training (https://training.healthnote.com/). Please contact us if you have problems with this - privacy@HealthNote.com.*
+9. All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Health Note Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.Health Note.com) and have completed this training (https://training.HealthNote.com/). Please contact us if you have problems with this - privacy@HealthNote.com.*
 10. All workstations are set to automatically update for Windows Updates or MacOS updates.
 11. All workstations have virus protection software installed, configured, and enabled.
 
