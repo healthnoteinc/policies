@@ -164,13 +164,26 @@ which are only used once), everyone should be aware of how to select strong pass
 Limited only by systems that support it (we make our best effort to enforce up to the limitations of a particular platform):
 * a minimum length of 16 and max length of 64 characters;
 * a mix of upper case characters, lower case characters, and numbers or special characters;
-* disallow use of repetitive sequential characters (i.e. "3tttttt");
 * a 90-day password expiration on all accounts that can access ePHI or other sensitive data;
 * prevention of password reuse using a history of the last 6 passwords;
 * where supported, modifying at least 4 characters when changing passwords;
-* account lockout after 5 invalid attempts.
 * user accounts that have system-level privileges granted through group memberships or programs such as "sudo" must have a unique password from all other accounts held by that user.
 * where Simple Network Management Protocol (SNMP) is used, the community strings must be defined as something other than the standard defaults of "public," "private," and "system," and must be different from the passwords used to log in interactively. A keyed hash must be used where available (e.g., SNMPv2).
+
+Google Workspace password requirements shall be set to “Enforce strong passwords”. Minimum requirements include:
+
+a minimum length of 16 characters
+a 90-day password expiration
+Password reuse not allowed
+2FA required
+
+MongoDB password requirements shall be set to the strongest system settings of the following:
+
+A minimum length of 8 characters
+Contain unique characters, numbers, or symbols
+Exclude email address and username
+Last four passwords not allowed for reuse
+Not allow most commonly used passwords
 
 ## 7.14 Application Development Password Standards
 
