@@ -172,18 +172,18 @@ Limited only by systems that support it (we make our best effort to enforce up t
 
 Google Workspace password requirements shall be set to “Enforce strong passwords”. Minimum requirements include:
 
-a minimum length of 16 characters
-a 90-day password expiration
-Password reuse not allowed
-2FA required
+* a minimum length of 16 characters
+* a 90-day password expiration
+* Password reuse not allowed
+* 2FA required
 
 MongoDB password requirements shall be set to the strongest system settings of the following:
 
-A minimum length of 8 characters
-Contain unique characters, numbers, or symbols
-Exclude email address and username
-Last four passwords not allowed for reuse
-Not allow most commonly used passwords
+* A minimum length of 8 characters
+* Contain unique characters, numbers, or symbols
+* Exclude email address and username
+* Last four passwords not allowed for reuse
+* Not allow most commonly used passwords
 
 ## 7.14 Application Development Password Standards
 
