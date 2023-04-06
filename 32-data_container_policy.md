@@ -15,6 +15,7 @@ Containers and container infrastructure is used to host applications at Health N
 - Helm and helm charts are used to orchestrate deployments within CI/CD pipelines 
 - Container secrets are managed in a secret management system, i.e. AWS Parameter Store
 - Commit IDs are used to tag images to ensure consistent automated builds and to prevent attacks leveraging tag mutability
+
 ## 32.4 Container images
 
 - Use of external container images are required to be signed and originate from a trusted registry, i.e. Docker Hub
@@ -24,7 +25,6 @@ Containers and container infrastructure is used to host applications at Health N
 
 - Containers are regularly scanned for vulnerabilities and identified vulnerabilities are queued/documented/ticketed for remediation.
  
-
 ## 32.6 Container security requirements
 
  - Containers are required to utilize Linux User Namespace Support to reduce the kernel and system resources that a container can access.
