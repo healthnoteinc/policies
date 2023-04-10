@@ -70,3 +70,10 @@ Upon resignation or termination of employment, or at any time on request, the em
 ## Violations of policy
 
 Employees/Contractors who have not received authorization in writing from Health Note management and who have not provided written consent will not be permitted to use personal devices for work purposes. Failure to follow Health Note policies and procedures may result in disciplinary action, up to and including termination of employment.
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 7/18/2022     | Initial                     | Initial             |
+| 4/10/2023     | Reviewed                    | No changes          |

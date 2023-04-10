@@ -130,3 +130,13 @@ All workforce members report non-compliance of Health Note's policies and proced
 3. The Security Officer facilitates taking appropriate steps to prevent recurrence of the violation (when possible and feasible).
 4. In the case of an insider threat, the Security Officer and Privacy Officer are to set up a team to investigate and mitigate the risk of insider malicious activity. Health Note workforce members are encouraged to come forward with information about insider threats, and can do so anonymously.
 5. The Security Officer maintains all documentation of the investigation, sanctions provided, and actions taken to prevent reoccurrence for a minimum of six years after the conclusion of the investigation.
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 4/18/2019     | Initial                     | Initial             |
+| 4/14/2020     | Reviewed                    | No changes          | 
+| 3/29/2021     | Reviewed                    | No changes          |
+| 2/24/2022     | Updates                    | Define responsibilities          |
+| 4/10/2023     | Reviewed                    | No changes          |

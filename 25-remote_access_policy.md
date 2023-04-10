@@ -65,3 +65,10 @@ Any exception to the policy must be approved by the business unit manager.
 -  Acceptable Use Policy
 -  Systems Access Policy
 
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 5/27/2021     | Initial                    | Initial          |
+| 2/24/2022     | Reviewed                    | No changes          |
+| 4/10/2023     | Reviewed                    | No changes          |

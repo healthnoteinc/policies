@@ -21,3 +21,9 @@ Operations Personnel will establish the required controls for applications that 
 - Test environments will be separate from the production environment.
 - Separation of duties will be established and monitored to ensure conflicting roles and access to all phases of the development and implementation process is not granted.
 - A risk assessment will be performed prior to production for all applications that will store, access, create, and/or transmit confidential or protected information. 
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 5/27/2021     | Initial                    | Initial          |
+| 2/24/2022     | Reviewed                    | No changes          |
+| 4/10/2023     | Reviewed                    | No changes          |

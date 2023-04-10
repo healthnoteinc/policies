@@ -70,3 +70,16 @@ Production systems that create, receive, store, or transmit Customer data (herea
 ## 17.11 De-Identification of ePHI
 
 1. When explictitly requested by the client all ePHI is de-identified on over 50 fields using an algorithmic anonymizer sanitation dictionary.
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 4/18/2019     | Initial                     | Initial             |
+| 4/14/2020     | Reviewed                    | No changes          | 
+| 3/29/2021     | Reviewed                    | No changes          |
+| 2/24/2022     | Reviewed                    | No changes          |
+| 5/26/2022     | Updated                    | update p&p          |
+| 6/16/2022     | Updated                    | add section          |
+| 8/25/2022     | Updated                    | add clarification          |
+| 4/10/2023     | Reviewed                    | No changes          |

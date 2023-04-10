@@ -47,7 +47,7 @@ Access to Health Note systems and applications is limited for all users, includi
      * For new accounts, the method used to verify the user's identity must be recorded on the Systems Access Form.
   2. The Security Officer or Privacy Officer will review access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
   3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the form. If the form is rejected, it goes back for further review and documentation.
-  4. If the review is approved, the Security Officer or Privacy Officer then updates the Systems Access Form as Done, adding any pertinent notes required. The Chief Technology Officer (CTO) then grants requested access.
+  4. If the review is approved, the Security Officer or Privacy Officer then updates the Systems Access Form as Done, adding any pertinent notes required. IT Operations then grants requested access.
      * New accounts will be created with a temporary secure password that meets all requirements from [§7.12](#7.12-password-management), which must be changed on the initial login.
      * All password exchanges must occur over an authenticated channel.
      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Health Note employee at the discretion of the Security Officer, Privacy Officer, or CTO.
@@ -218,3 +218,18 @@ Passwords are meant to be treated as sensitive, confidential Health Note informa
 1. Unless explicitly approved by management, Employees may not download ePHI to any workstations used to connect to production systems.
 2. Disallowing transfer of ePHI to workstations is enforced through technical measures.
    * On production Linux bastions, all file transfer services are disabled including file-transfer functionality of SSH services (SCP/SFTP).
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 4/18/2019     | Initial                     | Initial             |
+| 4/14/2020     | Reviewed                    | No changes          | 
+| 5/29/2021     | Updated                     | additional NIST password guidelines,etc.          |
+| 2/24/2022     | Updated                    | clarification          |
+| 5/26/2022     | Updated                    | update p&p          |
+| 6/10/2022     | Updated                    | update scope          |
+| 7/15/2022     | Updated                    | general updates          |
+| 7/26/2022     | Updated                    | general updates          |
+| 8/1/2022     | Updated                    | general updates          |
+| 4/10/2023     | Updated                    | role change          |

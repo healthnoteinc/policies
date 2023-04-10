@@ -31,3 +31,13 @@ Health Note does not physically house any systems used by ites Platform in Healt
    * Workstations may only be accessed and utilized by authorized workforce members to complete assigned job/contract responsibilities.
    * All workforce members are required to monitor workstations and report unauthorized users and/or unauthorized attempts to access systems/applications as per the System Access Policy.
    * All workstations purchased by Health Note are the property of Health Note and are distributed to users by the company.
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 4/18/2019     | Initial                     | Initial             |
+| 4/14/2020     | Reviewed                    | No changes          | 
+| 3/29/2021     | Reviewed                    | No changes          |
+| 2/24/2022     | Reviewed                    | No changes          |
+| 4/10/2023     | Reviewed                    | No changes          |

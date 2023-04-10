@@ -42,3 +42,10 @@ As it is routine, we do not notify of routine patches that are not intended to h
 
 - Out of Band & Emergency Patching
 In the event of an emergency patch that will affect our customers, Health Note will provide notification via [email] at least [48] hours in advance.
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 5/27/2021     | Initial                    | Initial          |
+| 7/12/2021     | add critical cvss                    | add critical cvss          |
+| 2/24/2022     | Reviewed                    | No changes          |
+| 4/10/2023     | Reviewed                    | No changes          |

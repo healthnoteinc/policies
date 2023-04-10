@@ -32,3 +32,13 @@ ePHI is only stored in our hosted environment using encrypted storage. Health No
 10. In the case of a Health Note Customer terminating a contract with Health Note and no longer utilizing Health Note Services, data is retained or removed at the agreed-upon customer's requirement.
 11. In all cases it is solely the responsibility of the Health Note Customer to maintain the safeguards required of HIPAA once the data is transmitted out of Health Note Systems.
 
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 4/18/2019     | Initial                     | Initial             |
+| 4/14/2020     | Reviewed                    | No changes          | 
+| 3/29/2021     | Reviewed                    | No changes          |
+| 2/24/2022     | Reviewed                    | No changes          |
+| 5/26/2022     | Updated                    | update p&p          |
+| 4/10/2023     | Reviewed                    | No changes          |

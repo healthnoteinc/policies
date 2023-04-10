@@ -50,3 +50,13 @@ Health Note is committed to ensuring all workforce members actively address secu
     * Employees found to be in violation of this policy will be subject to sanctions as described in [§5.3.3](#5.3-security-officer).
 
 Health Note does not physically house any systems used by its Platform in Health Note facilities.  Physical security of our Platform servers is outlined [here](https://https://aws.amazon.com) for Amazon Web Services hosted services.  
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 4/18/2019     | Initial                     | Initial             |
+| 4/14/2020     | Reviewed                    | No changes          | 
+| 3/29/2021     | Reviewed                    | No changes          |
+| 2/24/2022     | Reviewed                    | No changes          |
+| 4/10/2023     | Reviewed                    | No changes          |

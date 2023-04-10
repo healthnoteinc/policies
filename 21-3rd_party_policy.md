@@ -47,3 +47,13 @@ Health Note makes every effort to assure all 3rd party organizations are complia
 12. SLA review is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
 13. The 3rd Party Assurance process is reviewed annually and updated to include any necessary changes.
 14. Changes to the 3rd Party Assurance process will also be made on an ad-hoc basis in cases where operational changes require it or if the process is found lacking. 
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 4/18/2019     | Initial                     | Initial             |
+| 4/14/2020     | Reviewed                    | No changes          | 
+| 3/29/2021     | Reviewed                    | No changes          |
+| 2/24/2022     | Reviewed                    | No changes          |
+| 4/10/2023     | Reviewed                    | No changes          |

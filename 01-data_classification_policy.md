@@ -20,3 +20,11 @@ This policy applies to all employees of Health Note as well as any other parties
 | Private        | Internal employee data, company finances, confidential information of clients and organizational partners   | Serious (negative impact on internal operations)      | Employee SSN, Salary information, Client contact lists, confidential corporate and/or operations information provided by clients or partners of Health Note about their organizations |
 | Sensitive      | Not for public release, or data not yet classified                                                          | Moderate (could damage Health Note mission)                | Org charts, revenue reports, pilot projects or commercialized deals in production or development                                                                                 |
 | Public         | Already available, publicly online                                                                          | None                                                  | Marketing materials, Pricing lists, work history or bios of staff (via LinkedIn and/or company website or other company-related webpages                                         |
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 5/27/2021     | Initial                     | No changes          |
+| 2/24/2022     | Reviewed                    | No changes          |
+| 4/10/2023     | Reviewed                    | No changes          |

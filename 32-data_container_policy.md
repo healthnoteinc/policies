@@ -28,3 +28,9 @@ Containers and container infrastructure is used to host applications at Health N
 ## 32.6 Container security requirements
 
  - Containers are required to utilize Linux User Namespace Support to reduce the kernel and system resources that a container can access.
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 3/31/2023     | Initial                     | Initial             |

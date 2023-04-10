@@ -48,3 +48,9 @@ The following assumptions were used while creating this plan:
 | Josh Reischer  | Aaron Rau      |
 | Aaron Rau      | Eduardo Segura |
 | Eduardo Segura | Rich Lai       |
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 5/27/2021     | Initial                    | Initial          |
+| 2/24/2022     | Reviewed                    | No changes          |
+| 4/10/2023     | Reviewed                    | No changes          |

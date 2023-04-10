@@ -46,3 +46,13 @@ Documentation - 164.316(b)(1)(i) | Policy Management Policy
 Notification in the Case of Breach - 13402(a) and (b) | Breach Policy
 Timelines of Notification - 13402(d)(1) | Breach Policy
 Content of Notification - 13402(f)(1) | Breach Policy
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 4/18/2019     | Initial                     | Initial             |
+| 4/14/2020     | Reviewed                    | No changes          | 
+| 3/29/2021     | Reviewed                    | No changes          |
+| 2/24/2022     | Reviewed                    | No changes          |
+| 4/10/2023     | Reviewed                    | No changes          |

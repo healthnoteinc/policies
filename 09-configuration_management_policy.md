@@ -27,3 +27,13 @@ Health Note documents of all changes to production systems and networks.
 7. All committed code is reviewed using pull requests to assure software code quality and proactively detect potential security issues in development.
 8. Health Note utilizes development and staging environments that mirror production to assure proper function.
 9. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 4/18/2019     | Initial                     | Initial             |
+| 4/14/2020     | Reviewed                    | No changes          | 
+| 3/29/2021     | Reviewed                    | No changes          |
+| 2/24/2022     | Reviewed                    | No changes          |
+| 4/10/2023     | Reviewed                    | No changes          |

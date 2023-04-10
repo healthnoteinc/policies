@@ -110,3 +110,9 @@ The IT Security Management office shall provide quarterly security training to a
 ## 33.12 Enforcement
 
 Employees who attempt to use unauthorized services shall have their permissions revoked until they pass security training.
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 4/9/2023     | Initial                     | Initial             |

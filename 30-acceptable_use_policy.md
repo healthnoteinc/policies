@@ -100,3 +100,10 @@ This policy applies to the use of information, network resources, electronic dev
         - Honeypot
         - Honeynet
         - Proprietary Information
+
+## Revisions
+
+| Revision Date | Revision Description        | Notes               |
+| --------------| --------------------------- | ------------------- |
+| 6/21/2012     | Initial                     | Initial             |
+| 4/10/2023     | Reviewed                    | No changes          |
