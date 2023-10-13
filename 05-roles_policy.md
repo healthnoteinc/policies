@@ -3,18 +3,11 @@ layout: default
 ---
 # 5. Roles Policy
 
-Health Note has a Security Officer [164.308(a)(2)] and Privacy Officer [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
+Health Note has a [Security Officer and Privacy Officer [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards towards compliance. The responsibilities associated with these roles are outlined below.
 
 ## 5.1 Applicable Standards
 
-### 5.1.1 Applicable Standards from the HITRUST Common Security Framework
-
-* 02.f - Disciplinary Process
-* 06.d - Data Protection and Privacy of Covered Information
-* 06.f - Prevention of Misuse of Information Assets
-* 06.g - Compliance with Security Policies and Standards
-
-### 5.1.2 Applicable Standards from the HIPAA Security Rule
+### 5.1.1 Applicable Standards from the HIPAA Security Rule
 
 * 164.308(a)(2) - Assigned Security Responsibility
 * 164.308(a)(5)(i) - Security Awareness and Training
@@ -28,46 +21,45 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 3. Manage relationships with customers and partners as those relationships affect security and compliance of ePHI.
 4. Assist Security Officer as needed.
 
-The current Health Note Privacy Officer is Joshua Reischer ([josh@healthnote.com](mailto:josh@healthnote.com)).
+The current Health Note Privacy Officer is James Chu ([james@healthnote.com](mailto:james@healthnote.com)).
 
 ### 5.2.1 Workforce Training Responsibilities
 
 1. The Privacy Officer facilitates the training of all workforce members as follows:
-   1. New workforce members within their first month of employment;
-   2. Existing workforce members annually;
-   3. Existing workforce members whose functions are affected by a material change in the policies and procedures, within a month after the material change becomes effective;
+   i. New workforce members within their first month of employment;
+   ii. Existing workforce members annually;
+   iii. Existing workforce members whose functions are affected by a material change in the policies and procedures, within a month after the material change becomes effective;
    4. Existing workforce members as needed due to changes in security and risk posture of Health Note.
 2. The Security Officer or designee maintains documentation of the training session materials and attendees for a minimum of six years.
 3. The training session focuses on, but is not limited to, the following subjects defined in Health Note's security policies and procedures:
-   1. HIPAA Privacy, Security, and Breach notification rules;
-   2. HITRUST Common Security Framework;
-   3. NIST Security Rules;
-   4. Risk Management procedures and documentation;
-   5. Auditing - Health Note may monitor access and activities of all users;
-   6. Workstations may only be used to perform assigned job responsibilities;
-   7. Users may not download software onto Health Note's workstations and/or systems without prior approval from the Security Officer;
-   8. Users are required to report malicious software to the Security Officer immediately;
-   9. Users are required to report unauthorized attempts, uses of, and theft of Health Note's systems and/or workstations;
-   10. Users are required to report unauthorized access to facilities
-   11. Users are required to report noted log-in discrepancies (i.e. application states user's last log-in was on a date user was on vacation);
-   12. Users may not alter ePHI maintained in a database, unless authorized to do so by a Health Note Customer;
-   13. Users are required to understand their role in Health Note's contingency plan;
-   14. Users may not share their user names nor passwords with anyone;
-   15. Requirements for users to create and change passwords;
-   16. Users must set all applications that contain or transmit ePHI to automatically log off after 15 minutes of inactivity;
-   17. Supervisors are required to report terminations of workforce members and other outside users;
-   18. Supervisors are required to report a change in a user's title, role, department, and/or location;
-   19. Procedures to backup ePHI;
-   20. Procedures to move and record movement of hardware and electronic media containing ePHI;
-   21. Procedures to dispose of discs, CDs, hard drives, and other media containing ePHI;
-   22. Procedures to re-use electronic media containing ePHI;
-   23. SSH key and sensitive document encryption procedures.
+   i. HIPAA Privacy, Security, and Breach notification rules;
+   ii. NIST Security Rules;
+   iii. Risk Management procedures and documentation;
+   iv. Auditing - Health Note may monitor access and activities of all users;
+   v. Workstations may only be used to perform assigned job responsibilities;
+   vi. Users may not download software onto Health Note's workstations and/or systems without prior approval from the Security Officer;
+   vii. Users are required to report malicious software to the Security Officer immediately;
+   viii. Users are required to report unauthorized attempts, uses of, and theft of Health Note's systems and/or workstations;
+   ix. Users are required to report unauthorized access to facilities
+   x. Users are required to report noted log-in discrepancies (i.e. application states user's last log-in was on a date user was on vacation);
+   xi. Users may not alter ePHI maintained in a database, unless authorized to do so by a Health Note Customer;
+   xii. Users are required to understand their role in Health Note's contingency plan;
+   xiii. Users may not share their user names nor passwords with anyone;
+   xiv. Requirements for users to create and change passwords;
+   xv. Users must set all applications that contain or transmit ePHI to automatically log off after 15 minutes of inactivity;
+   xvi. Supervisors are required to report terminations of workforce members and other outside users;
+   xvii. Supervisors are required to report a change in a user's title, role, department, and/or location;
+   xviii. Procedures to backup ePHI;
+   xix. Procedures to move and record movement of hardware and electronic media containing ePHI;
+   xx. Procedures to dispose of discs, CDs, hard drives, and other media containing ePHI;
+   xxi. Procedures to re-use electronic media containing ePHI;
+   xxii. SSH key and sensitive document encryption procedures.
 
 ## 5.3 Security Officer
 
-The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Health Note security policies and non-compliance with the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
+The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Health Note security policies and non-compliance with the security regulations [164.308(a)(1)(ii)], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
-The current Health Note Security Officer is Joshua Reischer ([josh@healthnote.com](mailto:josh@healthnote.com)).
+The current Health Note Security Officer is Christian Jimenez ([christian@healthnote.com](mailto:christian@healthnote.com)).
 
 ## 5.4 Assigned Security Responsibilities
 
@@ -75,7 +67,7 @@ The Security Officer is responsible to oversee the development, implementation, 
 
 ### 5.4.1 Organizational Responsibilities
 
-The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, testing, implementation, training, and oversight of all activities pertaining to Health Note's efforts to be compliant with the HIPAA Security Regulations, HITRUST CSF, and any other security and compliance frameworks. The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI.
+The Security Officer, in collaboration with the Privacy Officer, is responsible for facilitating the development, testing, implementation, training, and oversight of all activities pertaining to Health Note's efforts to be compliant with the HIPAA Security Regulations, and any other security and compliance frameworks. The intent of the Security Officer Responsibilities is to maintain the confidentiality, integrity, and availability of ePHI.
 
 These organizational responsibilities include, but are not limited to the following:
 
@@ -140,3 +132,4 @@ All workforce members report non-compliance of Health Note's policies and proced
 | 3/29/2021     | Reviewed                    | No changes          |
 | 2/24/2022     | Updates                    | Define responsibilities          |
 | 4/10/2023     | Reviewed                    | No changes          |
+| 10/13/2023     | Updates                    | Changed Privacy and Security Officers          |
