@@ -1,4 +1,4 @@
-# 31.0 Bring Your Own Device (BYOD) and  Acceptable Use Policy
+# 31.0 Bring Your Own Device (BYOD) and Acceptable Use Policy
 
 ## Objective
 
@@ -6,9 +6,9 @@ This policy establishes Health Note guidelines for employee/contractor use of pe
 
 ## Scope
 
-The BYOD and Acceptable Use Policy applies to all employees, interns, contractors, vendors and anyone using assets.  Employees/Contractors of Health Note may have the opportunity to use their personal electronic devices for work purposes when authorized in writing, in advance, by the employee/contractor and management. Personal electronic devices include personally owned cellphones, smartphones, tablets, laptops and computers.
+The Bring Your Own Device (BYOD) and Acceptable Use Policy (AUP) applies to all employees, interns, contractors, vendors, and anyone using assets. Employees/Contractors of Health Note may have the opportunity to use their personal electronic devices for work purposes when authorized in writing, in advance, by the employee/contractor and management. Personal electronic devices include personally owned cellphones, smartphones, tablets, laptops and computers.
 
-The BYOD policy applies to all employees, contractors, vendors and any other person using or accessing information or information systems. Exceptions to this policy must be approved by the CTO or a designated representative.  The use of personal devices is limited to certain employees/contractors and may be limited based on compatibility of technology.   Furthermore, based on the amount of personally identifiable information (PII) employees work with, management reserves the right to determine which employees can use personally owned devices and which cannot.
+The BYOD and AUP applies to all employees, contractors, vendors, and any other person using or accessing information or information systems. Exceptions to this policy must be approved by the CTO, or a designated representative. The use of personal devices is limited to certain employees/contractors and may be limited based on compatibility of technology. Furthermore, based on the amount of personally identifiable information (PII) employees work with, management reserves the right to determine which employees can use personally owned devices and which cannot.
 
 # Procedure
 
@@ -65,7 +65,7 @@ While Health Note does not own the device, they do own all company data. Therefo
 
 ## Termination of employment
 
-Upon resignation or termination of employment, or at any time on request, the employee may be asked to produce the personal device for inspection. All company data on personal devices will be removed by IT upon termination of employment.  Company reserves the right to perform full wipe of personal devices upon termination of employment.
+Upon resignation or termination of employment, or at any time on request, the employee may be asked to produce the personal device for inspection. All company data on personal devices will be removed by IT upon termination of employment. Company reserves the right to perform full wipe of personal devices upon termination of employment.
 
 ## Violations of policy
 
@@ -77,3 +77,4 @@ Employees/Contractors who have not received authorization in writing from Health
 | --------------| --------------------------- | ------------------- |
 | 7/18/2022     | Initial                     | Initial             |
 | 4/10/2023     | Reviewed                    | No changes          |
+| 10/18/2023    | Updated                     | Language edits      |
