@@ -31,7 +31,7 @@ The incident response process addresses:
 
 ## 11.2 Incident Management Policies
 
-The Health Note incident response process follows the process recommended by [SANS](https://www.sans.org), an industry leader in security. Process flows are a direct representation of the SANS process which can be found in [this document](sections/incident-flowchart.pdf).
+The Health Note incident response process follows the process recommended by [SANS](https://www.sans.org), an industry leader in security. Process flows are a direct representation of the SANS process which can be found in [this document](policies/incident-flowchart.pdf).
 
 Health Note's incident response classifies security-related events into the following categories:
 
