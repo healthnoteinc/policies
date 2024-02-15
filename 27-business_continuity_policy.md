@@ -46,11 +46,12 @@ The following assumptions were used while creating this plan:
 | Primary        | Successor      |
 |----------------|----------------|
 | Josh Reischer  | Aaron Rau      |
-| Aaron Rau      | Eduardo Segura |
-| Eduardo Segura | Rich Lai       |
+| Aaron Rau      | Christian Jimenez |
+| Christian Jimenez | James Chu       |
 
 | Revision Date | Revision Description        | Notes               |
 | --------------| --------------------------- | ------------------- |
 | 5/27/2021     | Initial                    | Initial          |
 | 2/24/2022     | Reviewed                    | No changes          |
 | 4/10/2023     | Reviewed                    | No changes          |
+| 2/15/2024     | Updated                    | Updated successors          |
