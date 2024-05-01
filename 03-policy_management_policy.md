@@ -7,10 +7,6 @@ Health Note implements policies and procedures to maintain compliance and integr
 
 ## 3.1 Applicable Standards
 
-### 3.1.1 Applicable Standards from the HITRUST Common Security Framework
-
-* 12.c - Developing and Implementing Continuity Plans Including Information Security
-
 ### 3.1.2 Applicable Standards from the HIPAA Security Rule
 
 * 164.316(a) - Policies and Procedures
@@ -39,3 +35,4 @@ Health Note
 | 3/29/2021     | Reviewed                    | No changes          |
 | 2/24/2022     | Reviewed                    | No changes          |
 | 4/10/2023     | Reviewed                    | No changes          |
+| 5/01/2023     | Reviewed                    | Removed HITRUST Common Framework       |
