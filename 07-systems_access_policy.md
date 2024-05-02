@@ -97,7 +97,7 @@ Access to Health Note systems and applications is limited for all users, includi
 ## 7.7 Automatic Logoff
 
 1. Users are required to make information systems inaccessible by any other individual when unattended by the users (ex. by using a password protected screen saver or logging off the system).
-2. Information systems automatically log users off or lock with password protected screen saver systems after 15 minutes of inactivity.
+2. Information systems automatically log users off or lock with password protected screen saver systems after 10 minutes of inactivity.
 3. The Security Officer pre-approves exceptions to automatic log off requirements.
 
 ## 7.8 Employee Workstation Use
@@ -234,4 +234,4 @@ Passwords are meant to be treated as sensitive, confidential Health Note informa
 | 8/1/2022     | Updated                    | general updates          |
 | 4/10/2023     | Updated                    | role change          |
 | 10/23/2023     | Updated                    | form link          |
-| 5/01/2024     | Reviewed                    | No changes         |
+| 5/01/2024     | Updated                    | general updates         |
