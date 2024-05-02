@@ -172,10 +172,24 @@ Limited only by systems that support it (we make our best effort to enforce up t
 
 Google Workspace password requirements shall be set to “Enforce strong passwords”. Minimum requirements include:
 
-* a minimum length of 16 characters
+* a minimum length of 16 and max length of 64 characters
+* a mix of uppercase characters, lower case characters, and numbers or special characters
 * a 90-day password expiration
 * Password reuse not allowed
-* 2FA required
+* 2FA/MFA is required
+
+Amazon AWS password requirements shall be set to the strongest system settings. Minimum requirements include:
+
+* a minimum length of 16 characters
+* a mix of uppercase characters, lower case characters, and numbers or special characters
+   * must contain at least one (1) uppercase letter from the Latin alphabet (A-Z)
+   * must contain at least one (1) lowercase letter from the Latin alphabet (a-z)
+   * must contain at least one (1) number character
+   * must contain at least one non-alphanumeric character (special character)
+* a 90-day password expiration
+* password reuse from the last 24 changes are not allowed
+* 2FA/MFA is required
+
 
 ## 7.14 Application Development Password Standards
 
@@ -226,4 +240,4 @@ Passwords are meant to be treated as sensitive, confidential Health Note informa
 | 8/1/2022     | Updated                    | general updates          |
 | 4/10/2023     | Updated                    | role change          |
 | 10/23/2023     | Updated                    | form link          |
-| 5/01/2024     | Updated                    | general updates         |
+| 5/02/2024     | Updated                    | general updates         |
