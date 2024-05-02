@@ -177,14 +177,6 @@ Google Workspace password requirements shall be set to “Enforce strong passwor
 * Password reuse not allowed
 * 2FA required
 
-MongoDB password requirements shall be set to the strongest system settings of the following:
-
-* A minimum length of 8 characters
-* Contain unique characters, numbers, or symbols
-* Exclude email address and username
-* Last four passwords not allowed for reuse
-* Not allow most commonly used passwords
-
 ## 7.14 Application Development Password Standards
 
 Application developers must ensure their programs contain the following security precautions:
