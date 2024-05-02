@@ -39,7 +39,6 @@ Health Note uses a variety of cloud services and backup inventory is as follows:
 * Elasticache Backups
 * EC2 Images
 * MongoDB Backups
-* Heroku Backups
 
 ## Revisions
 
@@ -50,3 +49,4 @@ Health Note uses a variety of cloud services and backup inventory is as follows:
 | 3/29/2021     | Reviewed                    | No changes          |
 | 2/24/2022     | Updated                    | Added clarification and scope          |
 | 4/10/2023     | Reviewed                    | No changes          |
+| 5/01/2024     | Updated                    | Removed Heroku from 6.3          |
