@@ -4,7 +4,7 @@ layout: default
 
 # 10. Facility Access Policy
 
-Health Note does not physically house any systems used by ites Platform in Health Note facilities.  Physical security of our Platform servers is outlined [here](https://https://aws.amazon.com) for Amazon Web Services hosted software.
+Health Note does not physically house any systems used by its Platform in Health Note facilities. Physical security of our Platform servers is outlined [here](https://https://aws.amazon.com) for Amazon Web Services hosted software.
 
 
 ## 10.1 Applicable Standards
@@ -41,3 +41,4 @@ Health Note does not physically house any systems used by ites Platform in Healt
 | 3/29/2021     | Reviewed                    | No changes          |
 | 2/24/2022     | Reviewed                    | No changes          |
 | 4/10/2023     | Reviewed                    | No changes          |
+| 5/02/2024     | Reviewed                    | Fixed typo          |
