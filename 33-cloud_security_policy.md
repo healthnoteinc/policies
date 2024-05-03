@@ -44,11 +44,11 @@ The list of approved services includes:
 
 - Hardware layer: Amazon AWS
 
-- Infrastructure layer: Amazon EC2, Amazon EKS, Amazon Lambda, MongoDB Atlas, Microsoft Azure, Heroku
+- Infrastructure layer: Amazon EC2, Amazon EKS, Amazon Lambda, MongoDB Atlas
 
 - Platform layer: Amazon RDS, Amazon Elasticache, Amazon S3, AWS Workspaces
 
-- Application layer: Absolute, Bandwidth, Bitwarden, Box, Brex, Calendly, Deel, Docusign, Github, Gong, Greenhouse, Gusto, Hubspot, JAMF, JIRA, LucidChart, Notion, Pingdom, Postman, Product Board, Rockelane, SendGrid, Sentry, Slack, Stripe, Triplebyte, Twilio, Zendesk, Zoom
+- Application layer: Absolute, Bandwidth, Bitwarden, Box, Brex, Calendly, Docusign, Github, Gong, Greenhouse, Hubspot, JAMF, JIRA, LucidChart, Notion, Pingdom, Postman, Rockelane, Rippling, SendGrid, Sentry, Slack, Stripe, Twilio, Zendesk, Zoom
 
 ## 33.6 Unauthorized Services
 
@@ -115,4 +115,5 @@ Employees who attempt to use unauthorized services shall have their permissions 
 
 | Revision Date | Revision Description        | Notes               |
 | --------------| --------------------------- | ------------------- |
-| 4/9/2023     | Initial                     | Initial             |
+| 4/9/2023      | Initial                     | Initial             |
+| 5/03/2024     | Updated                     | Removed Heroku and Microsoft Azure             |
