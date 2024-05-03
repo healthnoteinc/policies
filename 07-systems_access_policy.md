@@ -43,7 +43,7 @@ Access to Health Note systems and applications is limited for all users, includi
 1. Requests for access to Health Note systems and applications are made formally using the following process:
   1. A Health Note workforce member initiates the access request by filling out a [**Systems Access Form**](https://docs.google.com/forms/d/e/1FAIpQLSdus2wN2WHjbj0JBal2aG6Z8NmguTP7am1GCmZAgPvb7zSKaw/viewform?usp=pp_url&entry.768761467=Pending).
      * User identities must be verified prior to granting access to new accounts.
-     * Identity verification must be done in person where possible; for remote employees, identities must be verified over the phone.
+     * As a remote-only company, identifies must be verified over the phone or video conference.
      * For new accounts, the method used to verify the user's identity must be recorded on the Systems Access Form.
   2. The Security Officer or Privacy Officer will review access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
   3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the form. If the form is rejected, it goes back for further review and documentation.
