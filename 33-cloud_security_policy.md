@@ -44,7 +44,7 @@ The list of approved services includes:
 
 - Hardware layer: Amazon AWS
 
-- Infrastructure layer: Amazon EC2, Amazon EKS, Amazon Lambda, MongoDB Atlas
+- Infrastructure layer: Amazon EC2, Amazon EKS, Amazon ECS, Amazon Lambda, MongoDB Atlas
 
 - Platform layer: Amazon RDS, Amazon Elasticache, Amazon S3, AWS Workspaces
 
