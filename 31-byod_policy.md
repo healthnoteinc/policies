@@ -8,7 +8,7 @@ This policy establishes Health Note guidelines for employee/contractor use of pe
 
 The BYOD and Acceptable Use Policy applies to all employees, interns, contractors, vendors and anyone using assets.  Employees/Contractors of Health Note may have the opportunity to use their personal electronic devices for work purposes when authorized in writing, in advance, by the employee/contractor and management. Personal electronic devices include personally owned cellphones, smartphones, tablets, laptops and computers.
 
-The BYOD policy applies to all employees, contractors, vendors and any other person using or accessing information or information systems. Exceptions to this policy must be approved by the CTO or a designated representative.  The use of personal devices is limited to certain employees/contractors and may be limited based on compatibility of technology.   Furthermore, based on the amount of personally identifiable information (PII) employees work with, management reserves the right to determine which employees can use personally owned devices and which cannot.
+The BYOD policy applies to all employees, contractors, vendors and any other person using or accessing information or information systems. Exceptions to this policy must be approved by the CTO, Head of Engineering, or a designated representative.  The use of personal devices is limited to certain employees/contractors and may be limited based on compatibility of technology.   Furthermore, based on the amount of personally identifiable information (PII) employees work with, management reserves the right to determine which employees can use personally owned devices and which cannot.
 
 # Procedure
 
@@ -77,3 +77,4 @@ Employees/Contractors who have not received authorization in writing from Health
 | --------------| --------------------------- | ------------------- |
 | 7/18/2022     | Initial                     | Initial             |
 | 4/10/2023     | Reviewed                    | No changes          |
+| 5/03/2024     | Reviewed                    | No changes          |
