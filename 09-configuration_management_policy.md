@@ -4,7 +4,7 @@ layout: default
 
 # 9. Configuration Management Policy
 
-Health Note documents of all changes to production systems and networks. 
+Health Note manages and documents all changes to production systems and networks within JIRA, the project management and issue tracking system. 
 
 ## 9.1 Applicable Standards
 
@@ -37,4 +37,4 @@ Health Note documents of all changes to production systems and networks.
 | 3/29/2021     | Reviewed                    | No changes          |
 | 2/24/2022     | Reviewed                    | No changes          |
 | 4/10/2023     | Reviewed                    | No changes          |
-| 5/02/2024     | Updated                    | General updates          |
+| 5/02/2024     | Updated                     | General updates     |
