@@ -35,7 +35,7 @@ Health Note is committed to ensuring all workforce members actively address secu
    * Current Health Note training course is managed by [Mineral] (https://trustmineral.com/).
    * Records of training are kept for all workforce members, via [Mineral] (https://trustmineral.com/).
 6. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. 
-7.  All Health Note-purchased and owned computers are to display this message at login and when the computer is unlocked: *This computer is owned by Health Note Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.healthnote.com) and have completed HIPAA and Security training. Please contact us if you have problems with this - privacy@healthnote.com*.
+7.  All Health Note-purchased and owned computers are to display this message at login and when the computer is unlocked: *This computer is owned by Health Note Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.healthnote.com) and have completed HIPAA and Security training. Please contact us if you have problems with this - it-support@healthnote.com*.
 8. Employees may only use Health Note-purchased and owned workstations for accessing production systems with access to ePHI data.
    * Any workstations used to access production systems must be configured as prescribed in [§7.8](#7.8-employee-workstation-use).
    * Any workstations used to access production systems must have virus protection software installed, configured, and enabled.
