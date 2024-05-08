@@ -21,7 +21,7 @@ Health Note implements policies and procedures to maintain compliance and integr
 
 1. All policies are stored and updated to maintain Health Note compliance with HIPAA, HITRUST, NIST, and other relevant standards. Updates and version control are done similarly to source code control.
 2. Policy update requests can be made by any workforce member at any time. Furthermore, all policies are reviewed annually by both the Security and Privacy Officer to assure they are accurate and up-to-date.
-3. Edits and updates made by appropriate and authorized workforce members are done on their own versions, or branches. These changes are only merged back into final, or master, versions by the Privacy or Security Officer, similarly to a pull request. All changes are linked to workforce personnel who made them and the Officer who accepted them.
+3. Edits and updates made by appropriate and authorized workforce members are done on their own versions, or branches. These changes are only merged back into final, or master, versions by the Privacy or Security Officer, or their designee similarly to a pull request. All changes are linked to workforce personnel who made them and the Officer who accepted them.
 4. All policies are made accessible to all Health Note workforce members. The current master policies are available on Google Drive..
 5. All policies, and associated documentation, are retained for 6 years from the date of its creation or the date when it last was in effect, whichever is later
    1. Version history of all Health Note policies is done via GitHub.
@@ -40,4 +40,4 @@ Health Note
 | 3/29/2021     | Reviewed                    | No changes          |
 | 2/24/2022     | Reviewed                    | No changes          |
 | 4/10/2023     | Reviewed                    | No changes          |
-| 5/01/2024     | Reviewed                    | No changes          |
+| 5/07/2024     | Reviewed                    | General updates          |
