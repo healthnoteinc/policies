@@ -28,3 +28,4 @@ This policy applies to all employees of Health Note as well as any other parties
 | 5/27/2021     | Initial                     | No changes          |
 | 2/24/2022     | Reviewed                    | No changes          |
 | 4/10/2023     | Reviewed                    | No changes          |
+| 05/1/2024     | Reviewed                    | No changes          |

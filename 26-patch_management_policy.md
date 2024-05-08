@@ -49,3 +49,4 @@ In the event of an emergency patch that will affect our customers, Health Note w
 | 7/12/2021     | add critical cvss                    | add critical cvss          |
 | 2/24/2022     | Reviewed                    | No changes          |
 | 4/10/2023     | Reviewed                    | No changes          |
+| 5/03/2024     | Reviewed                    | No changes          |

@@ -28,21 +28,16 @@ connect to Health Note’s networks.
 1. Secure remote access will be strictly controlled with encryption through our Virtual Private
 Networks (VPNs)) and strong pass-phrases. For further information see Health Note’s Encryption
 Policy and the Password Policy
-
 2. Authorized Users shall protect their login and password, even from family members.
-
 3. While using our corporate owned computer to remotely connect to our corporate network, Authorized
 Users shall ensure the remote host is not connected to any other network at the same time, with the
 exception of personal networks that are under their complete control or under the complete control of an
 Authorized User or Third Party.
-
 4. Use of external resources to conduct Health Note business must be approved in advance by the
 appropriate business unit manager.
-
 5. All hosts that are connected to Health Note’s internal networks via remote access technologies must use
 the most up-to-date anti-virus software this includes personal computers. Third party connections must
 comply with requirements as stated in the Third-Party Agreement with our partner.
-
 6. Personal equipment used to connect to Health Note’s networks must meet the requirements of
 company owned equipment for remote access - and approved by your business unit leader.
 
@@ -72,3 +67,4 @@ Any exception to the policy must be approved by the business unit manager.
 | 5/27/2021     | Initial                    | Initial          |
 | 2/24/2022     | Reviewed                    | No changes          |
 | 4/10/2023     | Reviewed                    | No changes          |
+| 5/03/2024     | Reviewed                    | No changes          |

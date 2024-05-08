@@ -4,7 +4,7 @@ layout: default
 
 # 9. Configuration Management Policy
 
-Health Note documents of all changes to production systems and networks. 
+Health Note manages and documents all changes to production systems and networks within JIRA, the project management and issue tracking system. 
 
 ## 9.1 Applicable Standards
 
@@ -18,8 +18,8 @@ Health Note documents of all changes to production systems and networks.
 
 ## 9.2 Configuration Management Policies
 
-1. No systems are deployed into Health Note environments without approval of the Health Note CTO.
-2. All changes to production systems, network devices, and firewalls are approved by the Health Note CTO before they are implemented to assure they comply with business and security requirements.
+1. No systems are deployed into Health Note environments without approval of the Health Note CTO or Head of Engineering or designee.
+2. All changes to production systems, network devices, and firewalls are approved by the Health Note CTO or Head of Engineering or designee before they are implemented to assure they comply with business and security requirements.
 3. All changes to production systems are tested before they are implemented in production.
 4. Implementation of approved changes are only performed by authorized personnel.
 5. An up-to-date inventory of systems is maintained using Google spreadsheets and architecture diagrams hosted on Google Apps. All systems are categorized as production and utility to differentiate based on criticality.
@@ -37,3 +37,4 @@ Health Note documents of all changes to production systems and networks.
 | 3/29/2021     | Reviewed                    | No changes          |
 | 2/24/2022     | Reviewed                    | No changes          |
 | 4/10/2023     | Reviewed                    | No changes          |
+| 5/02/2024     | Updated                     | General updates     |

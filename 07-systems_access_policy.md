@@ -41,9 +41,10 @@ Access to Health Note systems and applications is limited for all users, includi
 ## 7.2 Access Establishment and Modification
 
 1. Requests for access to Health Note systems and applications are made formally using the following process:
-  1. A Health Note workforce member initiates the access request by filling out a **Systems Access Form** [here](https://docs.google.com/forms/d/e/1FAIpQLSdus2wN2WHjbj0JBal2aG6Z8NmguTP7am1GCmZAgPvb7zSKaw/viewform?usp=pp_url&entry.768761467=Pending).
+  1a. For new hires, Rippling automatically provisions predefined access based upon defined roles.
+  1b. For access changes a Health Note workforce member initiates the access request by filling out a [**Systems Access Form**](https://docs.google.com/forms/d/e/1FAIpQLSdus2wN2WHjbj0JBal2aG6Z8NmguTP7am1GCmZAgPvb7zSKaw/viewform?usp=pp_url&entry.768761467=Pending).
      * User identities must be verified prior to granting access to new accounts.
-     * Identity verification must be done in person where possible; for remote employees, identities must be verified over the phone.
+     * As a remote-only company, identifies must be verified over the phone or video conference.
      * For new accounts, the method used to verify the user's identity must be recorded on the Systems Access Form.
   2. The Security Officer or Privacy Officer will review access to systems as dictated by the employee's job title. If additional access is required outside of the minimum necessary to perform job functions, the requester must include a description of why the additional access is required as part of the access request.
   3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the form. If the form is rejected, it goes back for further review and documentation.
@@ -97,7 +98,7 @@ Access to Health Note systems and applications is limited for all users, includi
 ## 7.7 Automatic Logoff
 
 1. Users are required to make information systems inaccessible by any other individual when unattended by the users (ex. by using a password protected screen saver or logging off the system).
-2. Information systems automatically log users off or lock with password protected screen saver systems after 15 minutes of inactivity.
+2. Information systems automatically log users off or lock with password protected screen saver systems after 10 minutes of inactivity.
 3. The Security Officer pre-approves exceptions to automatic log off requirements.
 
 ## 7.8 Employee Workstation Use
@@ -172,18 +173,24 @@ Limited only by systems that support it (we make our best effort to enforce up t
 
 Google Workspace password requirements shall be set to “Enforce strong passwords”. Minimum requirements include:
 
-* a minimum length of 16 characters
+* a minimum length of 16 and max length of 64 characters
+* a mix of uppercase characters, lower case characters, and numbers or special characters
 * a 90-day password expiration
 * Password reuse not allowed
-* 2FA required
+* 2FA/MFA is required
 
-MongoDB password requirements shall be set to the strongest system settings of the following:
+Amazon AWS password requirements shall be set to the strongest system settings. Minimum requirements include:
 
-* A minimum length of 8 characters
-* Contain unique characters, numbers, or symbols
-* Exclude email address and username
-* Last four passwords not allowed for reuse
-* Not allow most commonly used passwords
+* a minimum length of 16 characters
+* a mix of uppercase characters, lower case characters, and numbers or special characters
+   * must contain at least one (1) uppercase letter from the Latin alphabet (A-Z)
+   * must contain at least one (1) lowercase letter from the Latin alphabet (a-z)
+   * must contain at least one (1) number character
+   * must contain at least one non-alphanumeric character (special character)
+* a 90-day password expiration
+* password reuse from the last 24 changes are not allowed
+* 2FA/MFA is required
+
 
 ## 7.14 Application Development Password Standards
 
@@ -233,4 +240,5 @@ Passwords are meant to be treated as sensitive, confidential Health Note informa
 | 7/26/2022     | Updated                    | general updates          |
 | 8/1/2022     | Updated                    | general updates          |
 | 4/10/2023     | Updated                    | role change          |
-| 10/24/2023     | Updated                    | form link          |
+| 10/23/2023     | Updated                    | form link          |
+| 5/02/2024     | Updated                    | general updates         |

@@ -24,11 +24,11 @@ participating in a Systems Development Life Cycle (SDLC) for system development 
 company, engaged in systems or software development activities, must follow the SDLC. 
 
 SDLC Phases:
--  Initiation
--  Development / Acquisition
--  Implementation / Assessment
--  Operations and Maintenance
--  Disposal
+1. Initiation
+2. Development / Acquisition
+3. Implementation / Assessment
+4. Operations and Maintenance
+5. Disposal
 
 ## 29.4 Exemptions
 
@@ -48,8 +48,10 @@ Any attempt by personnel to circumvent or otherwise bypass this policy or any su
 a security violation and subject to investigation. The results of the investigation may entail written reprimand,
 suspension, termination, and possibly criminal and/or civil penalties.
 
+## Revisions
 | Revision Date | Revision Description        | Notes               |
 | --------------| --------------------------- | ------------------- |
 | 5/27/2021     | Initial                    | Initial          |
 | 2/24/2022     | Reviewed                    | No changes          |
 | 4/10/2023     | Reviewed                    | No changes          |
+| 5/03/2024     | Reviewed                    | No changes          |
