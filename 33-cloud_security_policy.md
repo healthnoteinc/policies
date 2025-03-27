@@ -117,3 +117,4 @@ Employees who attempt to use unauthorized services shall have their permissions 
 | --------------| --------------------------- | ------------------- |
 | 4/9/2023      | Initial                     | Initial             |
 | 5/03/2024     | Updated                     | Removed Heroku and Microsoft Azure             |
+| 03/27/2025    | Reviewed                    | No changes          |
