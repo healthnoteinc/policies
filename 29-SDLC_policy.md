@@ -19,9 +19,8 @@ Standards.
 
 ## 29.3 Policy
 
-Information Technology at Health Note, is responsible for developing, maintaining, and
-participating in a Systems Development Life Cycle (SDLC) for system development projects. All entities at the
-company, engaged in systems or software development activities, must follow the SDLC. 
+
+Information Technology at Health Note is responsible for developing, maintaining, and participating in a Systems Development Life Cycle (SDLC) for system development projects. All entities at the company, engaged in systems or software development activities, must follow the SDLC.
 
 SDLC Phases:
 1. Initiation
@@ -29,6 +28,43 @@ SDLC Phases:
 3. Implementation / Assessment
 4. Operations and Maintenance
 5. Disposal
+
+### 29.3.1 Secure Development Requirements (PCI Compliance)
+
+To ensure compliance with PCI and other regulatory requirements, the following secure development controls must be implemented throughout the SDLC:
+
+- **Prevention of Authorization Bypass Attacks:**
+	- Enforce strict access controls and least privilege principles.
+	- Implement robust authentication and authorization checks at every layer of the application.
+	- Conduct regular code reviews and penetration testing to identify and remediate potential bypass vectors.
+
+- **Prevention of Cross Site Request Forgery (CSRF) Attacks:**
+	- Use anti-CSRF tokens for all state-changing requests.
+	- Validate the origin and referer headers where appropriate.
+	- Educate developers on secure coding practices to avoid CSRF vulnerabilities.
+
+- **Prevention of Cross Site Scripting (XSS) Attacks:**
+	- Sanitize and validate all user input and output.
+	- Use secure frameworks and libraries that provide built-in XSS protection.
+	- Implement Content Security Policy (CSP) headers where feasible.
+
+- **Prevention of Injection Attacks (e.g., SQL, Command, LDAP):**
+	- Use parameterized queries and prepared statements for all database access.
+	- Avoid dynamic code execution and direct user input in system commands.
+	- Validate and sanitize all inputs before processing.
+
+- **Avoidance of Insecure Session IDs:**
+	- Use secure, randomly generated session identifiers.
+	- Transmit session IDs only over encrypted (TLS/SSL) channels.
+	- Implement session expiration and regeneration on privilege changes.
+
+- **Use of Vulnerable Libraries:**
+	- Regularly scan for vulnerabilities using automated tools.
+	- Promptly update or replace libraries with known vulnerabilities.
+	- Unacceptable use: Deploying or continuing to use libraries with known, unpatched critical vulnerabilities.
+	- Acceptable use: Only libraries with no known critical vulnerabilities and with active maintenance/support.
+
+All development teams must document and demonstrate compliance with these requirements as part of the SDLC process. Failure to adhere to these controls may result in disciplinary action and/or removal of non-compliant systems from production environments.
 
 ## 29.4 Exemptions
 
@@ -56,3 +92,4 @@ suspension, termination, and possibly criminal and/or civil penalties.
 | 4/10/2023     | Reviewed                    | No changes          |
 | 5/03/2024     | Reviewed                    | No changes          |
 | 03/27/2025    | Reviewed                    | No changes          |
+| 03/05/2026   | Updated                      | Updates for PCI compliance|
