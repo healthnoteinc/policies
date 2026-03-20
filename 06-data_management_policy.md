@@ -40,6 +40,10 @@ Health Note uses a variety of cloud services and backup inventory is as follows:
 * EC2 Images
 * MongoDB Backups
 
+## 6.4 Cardholder Data Scope
+
+The organization does not store cardholder data (CHD) in any persistent storage system. CHD is processed transiently in memory solely for the purpose of secure transmission to third-party systems and is immediately discarded after use. Storage of CHD in logs, databases, or files is strictly prohibited.
+
 ## Revisions
 
 | Revision Date | Revision Description        | Notes               |
@@ -51,3 +55,4 @@ Health Note uses a variety of cloud services and backup inventory is as follows:
 | 4/10/2023     | Reviewed                    | No changes          |
 | 5/01/2024     | Updated                    | Removed Heroku from 6.3          |
 | 03/27/2025    | Reviewed                    | No changes          |
+| 03/20/2026 | Updated | Add PCI compliance
