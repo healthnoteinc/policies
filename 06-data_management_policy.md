@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # 6. Data Management Policy
 
