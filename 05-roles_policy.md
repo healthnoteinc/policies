@@ -59,7 +59,7 @@ The current Health Note Privacy Officer is James Chu ([james@healthnote.com](mai
 
 The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Health Note security policies and non-compliance with the security regulations [164.308(a)(1)(ii)], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
-The current Health Note Security Officer is Mary Fischer ([mary.fische@healthnote.com](mailto:mary.fischer@healthnote.com)).
+The current Health Note Security Officer is Aaron Rau ([aaron@healthnote.com](mailto:aaron@healthnote.com)).
 
 ## 5.4 Assigned Security Responsibilities
 
