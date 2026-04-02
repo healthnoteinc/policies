@@ -53,8 +53,8 @@ Health Note defines two categories of systems from a disaster recovery perspecti
 
 The following order of succession to ensure that decision-making authority for the Health Note Contingency Plan is uninterrupted. The Founder is responsible for ensuring the safety of personnel and the execution of procedures documented within this Health Note Contingency Plan. If the Fonder is unable to function as the overall authority or chooses to delegate this responsibility to a successor, the co-Founder shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
 
-* Joshua Reischer, co-Founder: 516-410-9798, josh@healthnote.com
-* Aaron Rau, co-Founder: 650-270-6681, aaron@healthnote.com
+* Joshua Reischer, co-Founder: josh@healthnote.com
+* Aaron Rau, co-Founder: aaron@healthnote.com
 
 ## 13.3 Responsibilities
 
@@ -152,3 +152,4 @@ This section discusses activities necessary for restoring Health Note operations
 | 4/10/2023     | Reviewed                    | No changes          |
 | 5/02/2024     | Reviewed                    | No changes          |
 | 03/27/2025    | Reviewed                    | No changes          |
+| 04/01/2026    | Updated                    | Remove phone numbers for privacy |

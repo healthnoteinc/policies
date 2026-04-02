@@ -52,4 +52,4 @@ The organization does not store cardholder data (CHD) in any persistent storage 
 | 4/10/2023     | Reviewed                    | No changes          |
 | 5/01/2024     | Updated                    | Removed Heroku from 6.3          |
 | 03/27/2025    | Reviewed                    | No changes          |
-| 03/20/2026 | Updated | Add PCI compliance
+| 03/20/2026    | Updated                     | Add PCI compliance statement |

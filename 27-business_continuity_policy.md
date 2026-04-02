@@ -46,8 +46,8 @@ The following assumptions were used while creating this plan:
 | Primary        | Successor      |
 |----------------|----------------|
 | Josh Reischer  | Aaron Rau      |
-| Aaron Rau      | Christian Jimenez |
-| Christian Jimenez | James Chu       |
+| Aaron Rau      | Mary Fischer |
+| Mary Fischer | James Chu       |
 
 | Revision Date | Revision Description        | Notes               |
 | --------------| --------------------------- | ------------------- |
@@ -57,3 +57,4 @@ The following assumptions were used while creating this plan:
 | 2/15/2024     | Updated                    | Updated successors          |
 | 5/02/2024     | Reviewed                    | No changes          |
 | 03/27/2025    | Reviewed                    | No changes          |
+| 04/01/2026     | Updated                    | Updated successors          |

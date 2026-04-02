@@ -48,7 +48,7 @@ The list of approved services includes:
 
 - Platform layer: Amazon RDS, Amazon Elasticache, Amazon S3, AWS Workspaces
 
-- Application layer: Absolute, Bandwidth, Bitwarden, Box, Brex, Calendly, Docusign, Github, Gong, Greenhouse, Hubspot, JAMF, JIRA, LucidChart, Notion, Pingdom, Postman, Rockelane, Rippling, SendGrid, Sentry, Slack, Stripe, Twilio, Zendesk, Zoom
+- Application layer: Absolute, Bitwarden, Box, Brex, Calendly, Docusign, Github, Gong, Greenhouse, Hubspot, JAMF, JIRA, LucidChart, Notion, Pingdom, Postman, Rocketlane, Rippling, SendGrid, Sentry, Slack, Stripe, Twilio, Zendesk, Zoom
 
 ## 33.6 Unauthorized Services
 
@@ -118,3 +118,4 @@ Employees who attempt to use unauthorized services shall have their permissions 
 | 4/9/2023      | Initial                     | Initial             |
 | 5/03/2024     | Updated                     | Removed Heroku and Microsoft Azure             |
 | 03/27/2025    | Reviewed                    | No changes          |
+| 04/01/2026    | Reviewed                    | Update application layer         |
